@@ -1,0 +1,76 @@
+# Flutter-related files
+.dart_tool/
+.build/
+.pub/
+.melos/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.idea/
+.metadata
+android/.gradle/
+android/app/debug.keystore
+
+# iOS-specific files
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/.dart_tool/
+ios/Flutter/ephemeral/
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# JetBrains IDEs (IntelliJ, Android Studio)
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Logs and temporary files
+*.log
+*.lock
+*.tmp
+*.swp
+*.swo
+*.swn
+
+# Dependencies and package management
+pubspec.lock
+pubspec_overrides.yaml
+
+# Web build artifacts
+web/.dart_tool/
+web/main.dart.js
+web/main.dart.js.map
+
+# MacOS specific files
+macos/Pods/
+macos/.symlinks/
+macos/Flutter/ephemeral/
+macos/.dart_tool/
+
+# Windows-specific files
+windows/.dart_tool/
+windows/flutter/ephemeral/
+
+# Linux-specific files
+linux/.dart_tool/
+linux/flutter/ephemeral/
+
+# Firebase-related files
+firebase_options.dart
+
+# Secrets and credentials (Optional: Only if you store keys locally)
+*.keystore
+*.jks
+*.p12
+*.pem
+*.crt
+*.key
+google-services.json
+GoogleService-Info.plist
