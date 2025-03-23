@@ -39,6 +39,9 @@ ios/Flutter/ephemeral/
 *.swo
 *.swn
 
+# Ignore generated model files
+*.g.dart
+
 # Dependencies and package management
 pubspec.lock
 pubspec_overrides.yaml
