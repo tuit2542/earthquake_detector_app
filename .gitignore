@@ -77,3 +77,6 @@ firebase_options.dart
 *.key
 google-services.json
 GoogleService-Info.plist
+
+# Environment-specific files
+*.env

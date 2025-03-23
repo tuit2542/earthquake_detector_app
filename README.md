@@ -47,3 +47,7 @@ or
 | Need a fresh build | `flutter pub run build_runner clean && flutter pub run build_runner build` |
 | Just want to update files | `flutter pub run build_runner build --delete-conflicting-outputs` |
 | Auto-rebuild while coding | `flutter pub run build_runner watch --delete-conflicting-outputs` |
+
+## Environment
+
+Create .env file under environment path add BASE_URL param and USGS API url in file
