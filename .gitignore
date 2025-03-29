@@ -1,6 +1,6 @@
 # Flutter-related files
 .dart_tool/
-.build/
+build/
 .pub/
 .melos/
 .flutter-plugins
